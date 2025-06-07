@@ -1,0 +1,12 @@
+{
+    "name": "rahul-raut-portfolio",
+    "version": "1.0.0",
+    "description": "Personal portfolio website",
+    "private": true,
+    "scripts": {
+        "start": "serve ."
+    },
+    "dependencies": {
+        "serve": "^14.2.1"
+    }
+} 
